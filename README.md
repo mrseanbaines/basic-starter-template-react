@@ -1,5 +1,5 @@
-# Basic starter template
-A minimal setup to quickly get a project started using webpack and webpack-dev-server
+# Basic React starter template
+A minimal setup to quickly get a React project started using Webpack, webpack-dev-server, Babel and React
 
 ## Setup
 Make sure you have [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) installed.
