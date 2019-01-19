@@ -1,25 +1,20 @@
 # Basic starter template
-> A minimal setup to quickly get a project started using webpack and webpack-dev-server
+A minimal setup to quickly get a project started using webpack and webpack-dev-server
 
 ## Setup
 Make sure you have [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) installed.
 
 To get started, run the following commands:
+> _**NOTE:** You can copy and paste the list of commands together or run them individually_
 
-1. Open your terminal and clone the repository into a new directory:
 ```sh
+# 1. Open your terminal and clone the repository into a new directory:
 git clone git@github.com:mrseanbaines/basic-starter-template.git your-project-name
-```
-1. Change directories into your new project:
-```sh
+# 2. Change directories into your new project:
 cd your-project-name
-```
-3. Install dependencies:
-```sh
+# 3. Install dependencies:
 npm i
-```
-4. Run the app:
-```sh
+# 4. Run the app:
 npm start
+# 5. View the project at http://localhost:8080/
 ```
-5. View the project at http://localhost:8080/
