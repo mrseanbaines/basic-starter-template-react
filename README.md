@@ -10,11 +10,15 @@ To get started, run the following commands:
 ```sh
 # 1. Open your terminal and clone the repository into a new directory:
 git clone git@github.com:mrseanbaines/basic-starter-template.git your-project-name
+
 # 2. Change directories into your new project:
 cd your-project-name
+
 # 3. Install dependencies:
 npm i
+
 # 4. Run the app:
 npm start
-# 5. View the project at http://localhost:8080/
 ```
+
+View the project at http://localhost:8080/
